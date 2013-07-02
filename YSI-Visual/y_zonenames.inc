@@ -7,10 +7,10 @@
  *
  */
 
-#include "..\YSI-Players\y_text"
-#include "..\YSI-Visual\y_areas"
-#include "..\YSI-Core\y_master"
-#include "..\YSI-Coding\y_hooks"
+#include "..\YSI_Players\y_text"
+#include "..\YSI_Visual\y_areas"
+#include "..\YSI_Core\y_master"
+#include "..\YSI_Coding\y_hooks"
 
 loadtext core[ysi_zonenames];
 
