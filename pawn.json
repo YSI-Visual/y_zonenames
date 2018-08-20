@@ -1,0 +1,9 @@
+{
+	"user": "YSI-Visual",
+	"repo": "y_zonenames",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+	]
+}
+
