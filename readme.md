@@ -1,3 +1,40 @@
+# y_zonenames
+
+Displays the original area names from San Andreas when a player enters them.
+
+
+[![sampctl](https://shields.southcla.ws/badge/sampctl-y_zonenames-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Visual/y_zonenames)
+
+## Installation
+
+To install just this one library:
+
+```bash
+sampctl package install YSI-Visual/y_zonenames
+```
+
+Include in your code and begin using the library:
+
+```pawn
+#include <YSI-Visual/y_zonenames>
+```
+
+## Documentation
+
+* [Quick Start](YSI-Visual/y_zonenames/quick-start.md) - One very simple example of getting started with this library.
+* [Features](YSI-Visual/y_zonenames/features.md) - More features and examples.
+* [FAQs](YSI-Visual/y_zonenames/faqs.md) - Frequently Asked Questions, including errors and solutions.
+* [API](YSI-Visual/y_zonenames/api.md) - Full list of all functions and their meaning.
+* [Internal](YSI-Visual/y_zonenames/internal.md) - Internal developer documentation for the system.
+
+## Testing
+
+To test, simply run the package:
+
+```bash
+sampctl package run
+```
+
 # YSI
 
 ## General Information
@@ -109,34 +146,4 @@ Libraries that have in-game visible effects.
 * [y_races](https://github.com/YSI-Visual/y_races/blob/dev/YSI-Visual/y_races.md)
 * [y_zonenames](https://github.com/YSI-Visual/y_zonenames/blob/dev/YSI-Visual/y_zonenames.md)
 * [y_zonepulse](https://github.com/YSI-Visual/y_zonepulse/blob/dev/YSI-Visual/y_zonepulse.md)
-
-# y_zonenames
-
-[![sampctl](https://shields.southcla.ws/badge/sampctl-y_zonenames-2f2f2f.svg?style=for-the-badge)](https://github.com/YSI-Visual/y_zonenames)
-
-## Installation
-
-To install just this one library:
-
-```bash
-sampctl package install YSI-Visual/y_zonenames
-```
-
-Include in your code and begin using the library:
-
-```pawn
-#include <YSI-Visual/y_zonenames>
-```
-
-## Usage
-
-[Click Here] (YSI-Visual/y_zonenames.md)
-
-## Testing
-
-To test, simply run the package:
-
-```bash
-sampctl package run
-```
 
