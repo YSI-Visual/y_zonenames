@@ -82,16 +82,16 @@ Optional plugins:
 	#tryinclude "y_zonenames\y_zonenames_entry"
 #endif
 #if !defined _INC_y_zonenames
-	#tryinclude "YSI_Visual\y_zonenames\y_zonenames_entry"
+	#tryinclude "YSI-Visual\y_zonenames\y_zonenames_entry"
 #endif
 #if !defined _INC_y_zonenames
-	#tryinclude "YSI\YSI_Visual\y_zonenames\y_zonenames_entry"
+	#tryinclude "YSI\YSI-Visual\y_zonenames\y_zonenames_entry"
 #endif
 #if !defined _INC_y_zonenames
-	#tryinclude <YSI_Visual\y_zonenames\y_zonenames_entry>
+	#tryinclude <YSI-Visual\y_zonenames\y_zonenames_entry>
 #endif
 #if !defined _INC_y_zonenames
-	#tryinclude <YSI\YSI_Visual\y_zonenames\y_zonenames_entry>
+	#tryinclude <YSI\YSI-Visual\y_zonenames\y_zonenames_entry>
 #endif
 #if !defined _INC_y_zonenames
 	#error Could not find y_zonenames
